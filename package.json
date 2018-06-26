@@ -1,0 +1,25 @@
+{
+  "name": "webpack-dist-replace-plugin",
+  "version": "1.0.0",
+  "description": "replace your webpack dist content.",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sky0014/webpack-dist-replace-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "dist",
+    "replace",
+    "plugin"
+  ],
+  "author": "sky-wang@qq.com <sky-wang@qq.com>",
+  "bugs": {
+    "url": "https://github.com/sky0014/webpack-dist-replace-plugin/issues"
+  },
+  "homepage": "your github repository/#readme",
+  "devDependencies": { }
+}
