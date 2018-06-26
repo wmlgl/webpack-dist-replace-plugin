@@ -1,6 +1,6 @@
 {
   "name": "webpack-dist-replace-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "replace your webpack dist content.",
   "main": "index.js",
   "scripts": {

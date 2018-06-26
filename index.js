@@ -1,7 +1,7 @@
 // webpack-dist-replace-plugin
 // @author sky-wang@qq.com
 
-var RawSource = require('./node_modules/webpack-sources/lib/RawSource');
+var RawSource = require('webpack-sources/lib/RawSource');
 
 var options;
 
