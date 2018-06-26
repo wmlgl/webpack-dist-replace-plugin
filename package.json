@@ -1,6 +1,6 @@
 {
   "name": "webpack-dist-replace-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "replace your webpack dist content.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
   "bugs": {
     "url": "https://github.com/sky0014/webpack-dist-replace-plugin/issues"
   },
-  "homepage": "your github repository/#readme",
+  "homepage": "https://github.com/sky0014/webpack-dist-replace-plugin/#readme",
   "devDependencies": { }
 }
