@@ -1,6 +1,6 @@
 {
-  "name": "webpack-dist-replace-plugin",
-  "version": "1.0.2",
+  "name": "wmlgl-webpack-dist-replace-plugin",
+  "version": "1.0.2-b1",
   "description": "replace your webpack dist content.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sky0014/webpack-dist-replace-plugin.git"
+    "url": "git+https://github.com/wmlgl/webpack-dist-replace-plugin.git"
   },
   "keywords": [
     "webpack",
@@ -16,10 +16,12 @@
     "replace",
     "plugin"
   ],
-  "author": "sky-wang@qq.com <sky-wang@qq.com>",
+  "author": "qq4014@126.com <qq4014@126.com>",
   "bugs": {
-    "url": "https://github.com/sky0014/webpack-dist-replace-plugin/issues"
+    "url": "https://github.com/wmlgl/webpack-dist-replace-plugin/issues"
   },
-  "homepage": "https://github.com/sky0014/webpack-dist-replace-plugin/#readme",
-  "devDependencies": { }
+  "homepage": "https://github.com/wmlgl/webpack-dist-replace-plugin/#readme",
+  "dependencies": {
+    "webpack-sources": "^3.2.3"
+  }
 }

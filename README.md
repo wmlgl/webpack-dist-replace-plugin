@@ -3,17 +3,18 @@ replace your webpack dist content.
 
 ## Install
 ```bash
-npm install webpack-dist-replace-plugin --save-dev
+npm install wmlgl-webpack-dist-replace-plugin --save-dev
 ```
 
 ## Usage
 ```js
-const DistReplacePlugin = require('webpack-dist-replace-plugin');
+const DistReplacePlugin = require('wmlgl-webpack-dist-replace-plugin');
 
 module.exports = {
     
     plugins: [
         new DistReplacePlugin({
+			test: /[.]js$/,
             replace: content => content.replace('hello','world')
         })
     ],
